@@ -22,8 +22,8 @@
 继续:
 ![SSH-GPG-keys](./images/SSH-GPK-keys.jpg)
 继续  
-![New-SSH-keys](./images/New-SSH-key.jpg)
+![New-SSH-keys](./images/New-SSH-keys.jpg)
 继续  
-![Add-SSH-keys](./images/Add-SSH-key.jpg)
+![Add-SSH-keys](./images/Add-SSH-keys.jpg)
 继续
 ![Confirm-PWD](./images/Confirm-PWD.jpg)
