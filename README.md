@@ -1,5 +1,5 @@
-必须要生成SSH公钥，上传到github上去，才能将代码上传到github上
-# 生成SSH公钥并添加到github上去!
+必须要生成SSH一对公钥和公钥，并将私钥上传到github上去，才能将代码上传到github上
+# 生成SSH私钥并添加到github上去!
 1. 打开 git bash 输入: `ssh-keygen -t rsa` 命令用于生成公钥和私钥。
 > 一直按回车，就会在 [/c/Users/[用户名]/.ssh]  目录中生成两个文件 `id_rsa`和 `id_rsa.pub`  
 > 他们分别是私钥和公钥
